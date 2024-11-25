@@ -1,0 +1,2 @@
+watchdog
+git+https://github.com/dani-sev/pyrsync  # provides 'pyrsync' module
